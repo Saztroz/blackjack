@@ -1,1 +1,1 @@
-# blackjack
+Implementation of blackjack
